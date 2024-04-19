@@ -16,7 +16,7 @@ minimal_mistakes_skin    :  "air" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Like The Sun"
+title                    : # "Like The Sun"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "jyonnhyogi"
@@ -25,7 +25,7 @@ url                      : "https://1ikethesun.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # "1ikethesun/1ikethesun.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : "/assets/images/1ikethesun.JPG"
+logo                     : "/assets/images/logo.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200

@@ -19,7 +19,7 @@
             <ul>
                 {% for category in site.categories %}
                     {% if category[0] == "python" %}
-                        <li><a href="/categories/DL" class="">파이썬 개념 ()</a></li>
+                        <li><a href="/categories/python" class="">파이썬 개념 ()</a></li>
                     {% endif %}
                 {% endfor %}
             </ul>
@@ -27,7 +27,7 @@
             <ul>
                 {% for category in site.categories %}
                      {% if category[0] == "optimization" %}
-                        <li><a href="/categories/Internship" class="">최적화 ()</a></li>
+                        <li><a href="/categories/optimization" class="">최적화 ()</a></li>
                     {% endif %}
                 {% endfor %}
             </ul>
@@ -35,7 +35,7 @@
             <ul>
                 {% for category in site.categories %}
                     {% if category[0] == "yugioh" %}
-                        <li><a href="/categories/Blog" class="">유희왕 ()</a></li>
+                        <li><a href="/categories/yugioh" class="">유희왕 ()</a></li>
                     {% endif %}
                  {% endfor %}
              </ul>            

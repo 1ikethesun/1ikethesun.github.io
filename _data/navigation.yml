@@ -1,14 +1,38 @@
 # main links
 main:
-  - title: "Quick-Start Guide"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
-  # - title: "Sitemap"
-  #   url: /sitemap/
+ - title: "likethethon"
+     sublinks:
+       - title: "백준 문제 풀이"
+         url: /categories/baekjoon    
+       - title: "파이썬 개념"
+         url: /categories/python
+
+  # - title: "like"
+  #   sublinks:
+  #     - title : 'AI'
+  #       sublinks:
+  #         - title: "Computer Vision"
+  #           url: /categories/DL
+  #         - title: "Machine Learning"
+  #           url: /categories/ML
+  #     - title : 'PLATFORM DEV.'
+  #       sublinks:
+  #         - title: "Blog Dev"
+  #           url: /categories/Blog
+  #         - title: "Web"
+  #           url: /categories/web
+  #         - title: "Tools"
+  #           url: /categories/tools
+        
+   - title: "likethematics"
+     sublinks:
+       - title: "최적화"
+         url: /categories/optimizaion
+        
+   - title: "ETC"  
+     sublinks:
+       - title: "유희왕"
+         url: /categories/yugioh
+
   - title: "TIL"    
     url: /TIL/

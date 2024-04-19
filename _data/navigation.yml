@@ -1,11 +1,11 @@
 # main links
 main:
- - title: "likethethon"
-     sublinks:
-       - title: "백준 문제 풀이"
-         url: /categories/baekjoon    
-       - title: "파이썬 개념"
-         url: /categories/python
+  - title: "likethethon"
+    sublinks:
+      - title: "백준 문제 풀이"
+        url: /categories/baekjoon    
+      - title: "파이썬 개념"
+        url: /categories/python
 
   # - title: "like"
   #   sublinks:
@@ -24,15 +24,15 @@ main:
   #         - title: "Tools"
   #           url: /categories/tools
         
-   - title: "likethematics"
-     sublinks:
-       - title: "최적화"
-         url: /categories/optimizaion
+  - title: "likethematics"
+    sublinks:
+    - title: "최적화"
+      url: /categories/optimizaion
         
-   - title: "ETC"  
-     sublinks:
-       - title: "유희왕"
-         url: /categories/yugioh
+  - title: "ETC"  
+    sublinks:
+    - title: "유희왕"
+      url: /categories/yugioh
 
   - title: "TIL"    
     url: /TIL/

@@ -87,7 +87,7 @@
       @include clearfix();
       position: -webkit-sticky;
       position: sticky;
-      top: 2em;
+      top: 10em; // 기존 2에서 10으로 수정
       float: right;
 
       .toc {

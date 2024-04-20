@@ -292,3 +292,10 @@ defaults:
       related: true
       mathjax: true
       sidebar_main: true
+
+# gems: [jekyll-coffeescript, jekyll-watch, jekyll-assets] # 각 gem을 자동으로 요구한다.
+# gem install jekyll-coffeescript jekyll-watch jekyll-assets #  gem 설치
+
+gems: [jekyll-polyglot] 
+gem install jekyll-polyglot
+

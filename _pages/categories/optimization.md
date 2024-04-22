@@ -1,7 +1,7 @@
 ---
-  title: "최적화"
+  title: "최적화 이론"
   layout: archive
-  permalink: categories/optimization
+  permalink: /categories/optimization
   author_profile: true
   sidebar_main: true
   ---

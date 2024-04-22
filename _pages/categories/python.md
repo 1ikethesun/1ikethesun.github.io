@@ -1,7 +1,7 @@
 ---
   title: "파이썬 개념"
   layout: archive
-  permalink: categories/python
+  permalink: /categories/python
   author_profile: true
   sidebar_main: true
   ---

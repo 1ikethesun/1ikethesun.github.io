@@ -28,10 +28,10 @@ main:
     sublinks:
     - title: "최적화"
       sublinks:
-        -title: "모델링"
-        url: /categories/optimizaion-modeling
-        -title: "이론"
+        -title: "최적화 이론"
         url: /categories/optimization
+        -title: "최적화 모델링"
+        url: /categories/optimizaion-modeling
       
     - title: "강화학습"
       url: /categories/rl

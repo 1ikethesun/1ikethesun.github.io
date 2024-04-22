@@ -12,36 +12,37 @@
             <ul>
                 {% for category in site.categories %}
                     {% if category[0] == "baekjoon" %}
-                        <li><a href="/categories/baekjoon" class="">백준 문제 풀이 ()</a></li>
+                        <li><a href="/categories/baekjoon" class=""> 백준 문제 풀이 ()</a></li>
                     {% endif %}
                 {% endfor %}
             </ul>
             <ul>
                 {% for category in site.categories %}
                     {% if category[0] == "python" %}
-                        <li><a href="/categories/python" class="">파이썬 개념 ()</a></li>
+                        <li><a href="/categories/python" class=""> 파이썬 개념 ()</a></li>
                     {% endif %}
                 {% endfor %}
             </ul>
         <span class="nav__sub-title">likethematics</span>
+          <span class="nav__sub-title"> 최적화</span>
             <ul>
                 {% for category in site.categories %}
                      {% if category[0] == "optimization" %}
-                        <li><a href="/categories/optimization" class="">최적화 이론 ()</a></li>
+                        <li><a href="/categories/optimization" class="">  최적화 이론 ()</a></li>
                     {% endif %}
                 {% endfor %}
             </ul>
             <ul>
                 {% for category in site.categories %}
                       {% if category[0] == "optimization-modeling" %}
-                        <li><a href="/categories/optimization-modeling" class="">최적화 모델링 ()</a></li>
+                        <li><a href="/categories/optimization-modeling" class="">  최적화 모델링 ()</a></li>
                      {% endif %}
                  {% endfor %}
             </ul>
             <ul>
                 {% for category in site.categories %}
                      {% if category[0] == "rl" %}
-                        <li><a href="/categories/rl" class="">강화학습 ()</a></li>
+                        <li><a href="/categories/rl" class=""> 강화학습 ()</a></li>
                     {% endif %}
                 {% endfor %}
             </ul>
@@ -49,7 +50,7 @@
             <ul>
                 {% for category in site.categories %}
                     {% if category[0] == "yugioh" %}
-                        <li><a href="/categories/yugioh" class="">유희왕 ()</a></li>
+                        <li><a href="/categories/yugioh" class=""> 유희왕 ()</a></li>
                     {% endif %}
                  {% endfor %}
              </ul>            

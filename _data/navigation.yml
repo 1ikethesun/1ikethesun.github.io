@@ -28,9 +28,9 @@ main:
     sublinks:
     - title: "최적화"
       sublinks:
-        -title: "최적화 이론"
+        -title: "opti"
         url: /categories/optimization
-        -title: "최적화 모델링"
+        -title: "model"
         url: /categories/optimizaion-modeling
       
     - title: "강화학습"

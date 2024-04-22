@@ -134,7 +134,7 @@
   }
 
   img {
-    max-width: 300px;
+    max-width: 200px;
     border-radius: 0%; // 50%가 원형 낮아지면 직사각형
 
     @include breakpoint($large) {

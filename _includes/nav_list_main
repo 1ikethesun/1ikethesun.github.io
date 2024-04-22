@@ -12,7 +12,7 @@
             <ul>
                 {% for category in site.categories %}
                     {% if category[0] == "baekjoon" %}
-                        <li><a href="/categories/baekjoon" class=""> 백준 문제 풀이 ()</a></li>
+                        <li><a href="/categories/baekjoon" class="">백준 문제 풀이 ()</a></li>
                     {% endif %}
                 {% endfor %}
             </ul>
@@ -24,13 +24,21 @@
                 {% endfor %}
             </ul>
         <span class="nav__sub-title">likethematics</span>
-            <ul>
-                {% for category in site.categories %}
-                     {% if category[0] == "optimization" %}
-                        <li><a href="/categories/optimization" class="">최적화 ()</a></li>
-                    {% endif %}
-                {% endfor %}
-            </ul>
+            <span class-"nav_sub-title">최적화</span>
+              <ul>
+                  {% for category in site.categories %}
+                       {% if category[0] == "optimization" %}
+                          <li><a href="/categories/optimization" class="">최적화 이론 ()</a></li>
+                      {% endif %}
+                  {% endfor %}
+              </ul>
+              <ul>
+                  {% for category in site.categories %}
+                       {% if category[0] == "optimization-modeling" %}
+                          <li><a href="/categories/optimization-modeling" class="">최적화 모델링 ()</a></li>
+                      {% endif %}
+                  {% endfor %}
+              </ul>
             <ul>
                 {% for category in site.categories %}
                      {% if category[0] == "rl" %}

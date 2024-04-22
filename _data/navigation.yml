@@ -25,13 +25,13 @@ main:
   #           url: /categories/tools
         
   - title: "likethematics"
-    sublinks:
-    - title: "최적화"
       sublinks:
-      -title: "최적화 모델링"
-      url: /categories/optimizaion-modeling
-      -title: "최적화 이론"
-      url: /categories/optimization
+      - title: "최적화"
+        sublinks:
+        -title: "최적화 모델링"
+        url: /categories/optimizaion-modeling
+        -title: "최적화 이론"
+        url: /categories/optimization
       
     - title: "강화학습"
       url: /categories/rl

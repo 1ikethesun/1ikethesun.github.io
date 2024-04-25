@@ -17,12 +17,12 @@ main:
            url: /categories/optimizaion-modeling
       
       - title: "강화학습"
-      url: /categories/rl
+        url: /categories/rl
         
   - title: "ETC"  
     sublinks:
-    - title: "유희왕"
-      url: /categories/yugioh
+      - title: "유희왕"
+        url: /categories/yugioh
 
   - title: "TIL"    
     url: /TIL/

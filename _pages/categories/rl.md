@@ -1,5 +1,5 @@
 ---
-title: "강화 학습"
+title: "강화학습"
 layout: archive
 permalink: /categories/rl
 author_profile: true

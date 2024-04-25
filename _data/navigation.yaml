@@ -2,16 +2,18 @@
 main:
   - title: "likethethon"
     sublinks:
-      - title: "백준 문제 풀이"
-        url: /categories/baekjoon    
-      - title: "파이썬 개념"
-        url: /categories/python
+      - title: "파이썬"
+        sublinks:
+          - title: "백준 문제 풀이"
+            url: /categories/baekjoon    
+          - title: "개념"
+            url: /categories/python
         
   - title: "likethematics"
     sublinks:
       - title: "최적화"
         sublinks:
-          - title: "최적화 이론"
+          - title: "이론"
             url: /categories/optimization
       - title: "기계학습"
         sublinks:

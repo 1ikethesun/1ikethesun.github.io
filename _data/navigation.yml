@@ -6,34 +6,17 @@ main:
         url: /categories/baekjoon    
       - title: "파이썬 개념"
         url: /categories/python
-
-  # - title: "like"
-  #   sublinks:
-  #     - title : 'AI'
-  #       sublinks:
-  #         - title: "Computer Vision"
-  #           url: /categories/DL
-  #         - title: "Machine Learning"
-  #           url: /categories/ML
-  #     - title : 'PLATFORM DEV.'
-  #       sublinks:
-  #         - title: "Blog Dev"
-  #           url: /categories/Blog
-  #         - title: "Web"
-  #           url: /categories/web
-  #         - title: "Tools"
-  #           url: /categories/tools
         
   - title: "likethematics"
     sublinks:
-    - title: "최적화"
-      sublinks:
-        -title: "최적화 이론"
-        url: /categories/optimization
-        -title: "최적화 모델링"
-        url: /categories/optimizaion-modeling
+      - title: "최적화"
+        sublinks:
+          -title: "최적화 이론"
+           url: /categories/optimization
+          -title: "최적화 모델링"
+           url: /categories/optimizaion-modeling
       
-    - title: "강화학습"
+      - title: "강화학습"
       url: /categories/rl
         
   - title: "ETC"  

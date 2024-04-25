@@ -10,9 +10,7 @@ main:
   - title: "likethematics"
     sublinks:
       - title: "최적화"
-        sublinks:
-          -title: "최적화 이론"
-           url: /categories/optimization
+        url: /categories/optimization
       - title: "강화학습"
         url: /categories/rl
         

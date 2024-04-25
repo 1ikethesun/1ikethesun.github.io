@@ -13,8 +13,10 @@ main:
         sublinks:
           - title: "최적화 이론"
             url: /categories/optimization
-      - title: "강화학습"
-        url: /categories/rl
+      - title: "기계학습"
+        sublinks:
+          - title: "강화학습"
+            url: /categories/rl
         
 
         

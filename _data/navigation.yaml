@@ -1,14 +1,14 @@
 # main links
 main:
   - title: "likethethon"
-    sublinks:
+    children:
       - title: "백준 문제 풀이"
         url: /categories/baekjoon    
       - title: "파이썬 개념"
         url: /categories/python
         
   - title: "likethematics"
-    sublinks:
+    children:
       - title: "최적화"
         url: /categories/optimization
       - title: "강화학습"
@@ -17,7 +17,7 @@ main:
 
         
   - title: "ETC"  
-    sublinks:
+    children:
       - title: "유희왕"
         url: /categories/yugioh
 

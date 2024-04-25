@@ -1,5 +1,5 @@
 ---
-title: "최적화 이론"
+title: "최적화"
 layout: archive
 permalink: /categories/optimization
 author_profile: true

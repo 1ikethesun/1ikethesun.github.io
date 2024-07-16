@@ -47,7 +47,14 @@
                         <li><a href="/categories/yugioh" class=""> 유희왕 ({{category[1].size}})</a></li>
                     {% endif %}
                  {% endfor %}
-             </ul>            
+             </ul>
+             <ul>
+                {% for category in site.categories %}
+                    {% if category[0] == "tip" %}
+                        <li><a href="/categories/tip" class=""> 수학 관련 팁 ({{category[1].size}})</a></li>
+                    {% endif %}
+                 {% endfor %}
+             </ul>
        </li>
   </ul>
 </nav>

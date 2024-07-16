@@ -11,9 +11,9 @@ main:
         
   - title: "likethematics"
     sublinks:
-      - title: "최적화"
+      - title: "수학"
         sublinks:
-          - title: "이론"
+          - title: "최적화"
             url: /categories/optimization
       - title: "기계학습"
         sublinks:
@@ -26,6 +26,8 @@ main:
     sublinks:
       - title: "유희왕"
         url: /categories/yugioh
+      - title: "수학 관련 팁"
+        url: /categories/tip
 
   - title: "TIL"    
     url: /TIL/
